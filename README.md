@@ -2,7 +2,7 @@ This is a simple shell script for myself to install on Arch all software I mostl
 
 It is also the first script I made from an online shell class I'm taking.
 
-As mentioned, it's only for Arch
+As mentioned, it's only for Arch. That said, run it by typing <code>sh basic-software.sh</code> on your terminal.
 
 Audacity is a simple and useful audio editor. Very graphical.
 Calcurse is the best calendar app there is, bar none.
