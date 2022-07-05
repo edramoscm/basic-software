@@ -1,8 +1,4 @@
-This is a simple shell script for myself to install on Arch all software I mostly use. I also use LARBS, so yeah.
-
-It is also the first script I made from an online shell class I'm taking.
-
-As mentioned, it's only for Arch. That said, run it by typing <code>sh basic-software.sh</code> on your terminal.
+This is a simple shell script for myself to install on Arch all software I mostly use. I also use LARBS, so yeah. It is also the first script I made from an online shell class I'm taking. As mentioned, it's only for Arch. That said, run it by typing <code>sh basic-software.sh</code> on your terminal.
 
 Audacity is a simple and useful audio editor. Very graphical.
 
