@@ -1,4 +1,6 @@
-This is a simple shell script for myself to install on Arch all software I mostly use. I also use LARBS, so yeah. It is also the first script I made from an online shell class I'm taking. As mentioned, it's only for Arch. That said, run it by typing <code>sh basic-software.sh</code> on your terminal.
+This is a simple shell script for myself to install on Arch all software I mostly use. I also use LARBS, so yeah. It is also the first script I made from an online shell class I'm taking. As mentioned, it's only for Arch. That said, run it by typing <code>sh basic-software.sh</code> on your terminal. The same goes for the other programs. In the end of this readme file, I'll show what the other programs do.
+
+The list of installed software is:
 
 Audacity is a simple and useful audio editor. Very graphical.
 
@@ -45,3 +47,9 @@ Teams is the worst app ever developed.
 W3m is for me to preview things I write to my website, https://eduardoramos.xyz
 
 Zoom is right there with Teams in the list of horrible software ever developed.
+
+===============================================================================================
+
+<code>convert-video.sh</code> is another shell script that I use to convert different video files using ffmpeg. In the terminal, it works the same way as basic-software.
+
+<code>audio-trim.sh</code> is a script I use to trim audio files from audio files I use. I'll try to make it work for youtube videos as well, but that's for the future.
