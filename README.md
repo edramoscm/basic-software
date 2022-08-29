@@ -42,6 +42,8 @@ Steam.
 
 Telegram.
 
+Texlive is the full LaTeX package, not just the core.
+
 Teams is the worst app ever developed.
 
 W3m is for me to preview things I write to my website, https://eduardoramos.xyz
